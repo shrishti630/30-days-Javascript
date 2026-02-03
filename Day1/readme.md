@@ -1,0 +1,6 @@
+-console.log()
+-comments & multiline
+-syntax error
+-add/mul/sub/div/mod/expo
+-ways of adding scripts in html
+-datatypes
